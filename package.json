@@ -16,11 +16,16 @@
   "license": "ISC",
   "dependencies": {
     "async": "^2.6.0",
-    "bcrypt": "^1.0.3",
+    "bcrypt": "^3.0.2",
     "body-parser": "^1.18.2",
-    "express": "^4.15.4",
+    "crypto-api": "^0.8.3",
+    "crypto-js": "^3.1.9-1",
+    "express": "^4.16.4",
     "jsonwebtoken": "^8.1.0",
     "mysql": "^2.15.0",
-    "sequelize": "^3.30.4"
+    "mysql2": "^1.6.4",
+    "node-gyp": "^3.8.0",
+    "nodemon": "^1.18.9",
+    "sequelize": "^4.42.0"
   }
 }
